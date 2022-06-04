@@ -1,0 +1,18 @@
+{
+  "name": "uproject/library",
+  "description": "uproject",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Uproject\\Library\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "uproject"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
